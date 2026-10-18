@@ -396,6 +396,20 @@ Sensitive device identifiers, including MAC addresses and DHCP client identifier
 
 \## Conclusion
 
+## Networking Lab Screenshots
+
+### Ping Connectivity Tests
+![Ping Tests](ping-tests.png)
+
+### DNS and TCP Connectivity
+![DNS and TCP Tests](dns-tcp-tests.png)
+
+### IP Configuration and DHCP
+![IP and DHCP](ip-dhcp.png)
+
+### Network Route Tracing
+![Traceroute](traceroute.png)
+
 
 
 This Networking Home Lab demonstrates foundational networking knowledge and hands-on troubleshooting skills relevant to IT support, help desk, and entry-level networking positions.
